@@ -5,6 +5,7 @@ pydantic
 httpx
 passlib[bcrypt]
 bcrypt==4.0.1
-PyJWT
 python-multipart
 psycopg2-binary
+PyJWT
+
