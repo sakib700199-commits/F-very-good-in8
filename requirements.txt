@@ -4,6 +4,6 @@ sqlalchemy
 pydantic
 httpx
 passlib[bcrypt]
-pyjwt
+bcrypt==4.0.1
 python-multipart
 psycopg2-binary
